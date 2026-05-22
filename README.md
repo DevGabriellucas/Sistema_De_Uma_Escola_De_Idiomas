@@ -8,6 +8,3 @@ Este projeto foi desenvolvido como parte da disciplina de **Fábrica de Software
 
 ## Como Acessar o Projeto
 * **Visualizar o arquivo:** O arquivo `.brM3` pode ser aberto e visualizado utilizando o programa BRModelo.
-
-## Autor
-* **[Gabriel Lucas De Araujo Bandeira]** - [https://github.com/Gabriellucas20].
