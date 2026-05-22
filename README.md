@@ -1,4 +1,4 @@
-# Sistema_De_Uma_Escola_De_Idomas
+# Sistema_De_Uma_Escola_De_Idiomas
 
 ## Descrição do Projeto
 Este projeto foi desenvolvido como parte da disciplina de **Fábrica de Software** na UNIPÊ.
